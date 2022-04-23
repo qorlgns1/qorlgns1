@@ -38,6 +38,8 @@ I'm Kihoon bae.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorlgns1&count_private=true&show_icons=true&theme=graywhite)
 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=s12800)](https://solved.ac/s12800)  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorlgns1&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 </div>
