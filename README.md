@@ -34,8 +34,11 @@ I'm Kihoon bae.
 </div>
 <br>
 
-  <div align="center">
-  
+<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorlgns1&count_private=true&show_icons=true&theme=graywhite)
 
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorlgns1&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+
+</div>
+
