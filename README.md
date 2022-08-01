@@ -10,7 +10,7 @@
 
 <div align=center>
 
-[![](https://img.shields.io/badge/RESUME-blue?logo=appveyor&logoColor=white)](https://kihoon-bae.notion.site/e4fab8bcb0d94513b436ac6a3fb4bb35)
+[![](https://img.shields.io/badge/RESUME-blue?logo=appveyor&logoColor=white)](https://kihoon-bae.notion.site/bc9337aa1a3c4c96af9c581e1e2ca5bc)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bk_hoon)](https://www.instagram.com/bk_hoon)
 
 </div>
